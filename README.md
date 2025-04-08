@@ -40,7 +40,7 @@ As part of my graduate studies in Industrial Engineering at the University at Bu
 
 ## 📄 Project Report
 A full technical report explaining methodology, assumptions, and conclusions can be found here:  
-📥 [Download PDF Report](./perssonalized-insurance-pricing.pdf)
+📥 [Download PDF Report](./https://github.com/Kul-Vaishnavi/personalized-insurance-pricing/blob/main/personalized-insurance-pricing.pdf)
 
 ## 🔍 Future Work
 - Use SHAP values for better model explainability
