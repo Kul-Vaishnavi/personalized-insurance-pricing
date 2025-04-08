@@ -38,9 +38,6 @@ As part of my graduate studies in Industrial Engineering at the University at Bu
 | Random Forest    | 4567.96 | 0.87     |
 | XGBoost          | 4517.29 | 0.87     |
 
-## 📄 Project Report
-A full technical report explaining methodology, assumptions, and conclusions can be found here:  
-📥 [Download PDF Report](./https://github.com/Kul-Vaishnavi/personalized-insurance-pricing/blob/main/personalized-insurance-pricing.pdf)
 
 ## 🔍 Future Work
 - Use SHAP values for better model explainability
